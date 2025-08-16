@@ -7,7 +7,7 @@ from cryptography.hazmat.primitives.asymmetric import ed25519
 from urllib.parse import urlparse, urlencode, unquote_plus
 
 BASE_URL = "https://coinswitch.co"
-API_KEY = "Your API"          # Replace this with your CoinSwitch API key
+API_KEY = "Your API KEY"          # Replace this with your CoinSwitch API key
 SECRET_KEY = "SECRET KEY"  
 EXCHANGE = "coinswitchx"          # INR spot exchange on CoinSwitch PRO
 
