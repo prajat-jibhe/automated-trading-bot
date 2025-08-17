@@ -9,7 +9,7 @@ from urllib.parse import urlparse, urlencode, unquote_plus
 BASE_URL = "https://coinswitch.co"
 API_KEY = ""          # Replace this with your CoinSwitch API key
 SECRET_KEY = ""  
-EXCHANGE = "coinswitchx"          # INR spot exchange on CoinSwitch PRO
+EXCHANGE = "coinswitchx"          # wazir,c1c2
 
 # Whitelist of reliable, high liquidity INR pairs
 WHITELIST_PAIRS = [
